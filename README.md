@@ -131,6 +131,6 @@ Checking security headers for https://www.example.com...
 
 ## Author
 
-Script by: Dark_Shadow04
-GitHub: DarkShadow04
+Script by: Dark_Shadow04<br>
+GitHub: https://github.com/DarkShadow04<br>
 © 2024 Dark_Shadow04
