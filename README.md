@@ -30,7 +30,6 @@ Ensure you have Python installed. If not, download and install it from [here](ht
 
 ## Usage
 
-
 1. **Enter the Target URL:**
 Provide the URL of the website you want to analyze.
 
@@ -130,9 +129,8 @@ Checking security headers for https://www.example.com...
 - **Important** - Report-To: Allows the server to specify where to send reports when a Content Security Policy violation is detected.
   - **Remediation:** Set the appropriate reporting endpoints to receive CSP violation reports and take necessary actions.
 
-## Author :
-<br>
-Script by: Dark_Shadow04<br>
-GitHub: DarkShadow04<br>
-<br>
+## Author
+
+Script by: Dark_Shadow04
+GitHub: DarkShadow04
 © 2024 Dark_Shadow04
