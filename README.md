@@ -135,4 +135,4 @@ Checking security headers for https://www.example.com...
 Script by: Dark_Shadow04<br>
 GitHub: DarkShadow04<br>
 <br>
-© 2023 Dark_Shadow04
+© 2024 Dark_Shadow04
