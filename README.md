@@ -1,4 +1,4 @@
-# Security-Headers-Checker
+# Security-Headers-Checker: sec_headers_data
 
 ![Banner](banner/banner.png)
 
@@ -19,14 +19,14 @@ Security headers are a fundamental part of website security. Upon implementation
 1. **Clone the Repository:**
 <pre><code>git clone https://github.com/DarkShadow04/Security-Headers-Checker.git</code></pre>
 <pre><code>cd Security-Headers-Checker</code></pre>
-<pre><code>chmod +x Security-Headers-Checker.py</code></pre>
+<pre><code>chmod +x sec_headers_data.py</code></pre>
 
 
 2. **Install Dependencies:**
 Ensure you have Python installed. If not, download and install it from [here](https://www.python.org/downloads/).
 
 4. **Run the Script:**
-<pre><code>python Security-Headers-Checker.py</code></pre>
+<pre><code>python sec_headers_data.py</code></pre>
 
 ## Usage
 
