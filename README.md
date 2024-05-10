@@ -1,6 +1,6 @@
 # Security-Headers-Checker
 
-![Banner](banner.png)
+![Banner](banner/banner.png)
 
 ## Description
 
