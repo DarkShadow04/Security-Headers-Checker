@@ -1,4 +1,4 @@
-# Security-Headers-Checker: sec_headers_data
+# Security-Headers-Checker: sec_headers_data V2.0
 
 ![Banner](banner/banner.png)
 
@@ -11,6 +11,10 @@ Security headers are a fundamental part of website security. Upon implementation
 - **Header Analysis:** Checks for the presence of multiple security headers.
 - **Description:** Provides a brief description of each security header.
 - **Reporting:** Saves the results to a text file for further analysis.
+- **DMARC, SPF, and DKIM Checks:** Verifies the presence and status of DMARC, SPF, and DKIM records.
+- **Interactive Prompt:** Prompts the user to continue or exit after generating the report.
+- **Single Target URL Scan:** Allows scanning of a single target URL.
+- **Bulk Scans:** Supports scanning a file containing a list of target URLs.
 
 ## Installation
 
@@ -31,16 +35,19 @@ Ensure you have Python installed. If not, download and install it from [here](ht
 ## Usage
 
 1. **Enter the Target URL:**
-Provide the URL of the website you want to analyze.
+Provide the URL of the website you want to analyze, or provide the path to a file containing a list of target URLs.
 
 2. **Review the Results:**
-The script will check the security headers and save the results to a file named `security_headers.txt`.
+The script will check the security headers, DMARC, SPF, and DKIM records, and save the results to a file named security_headers.txt.
 
 ## Example
 
 <pre><code>python sec_header_data.py
-Enter the target URL (e.g., https://example.com): https://www.example.com
-Checking security headers for https://www.example.com...
+sec_headers_data V2.0 script by: Dark_Shadow04
+https://github.com/DarkShadow04
+Copyright 2024 Dark_Shadow04
+Enter '1' to enter a single target URL or '2' to enter a file containing a list of target URLs, or 'exit' to quit: 1
+Enter the target URL (e.g., https://example.com):  https://www.example.com
 [...]</code></pre>
 
 ## Security Headers Checked
